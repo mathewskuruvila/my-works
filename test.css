@@ -1,0 +1,10 @@
+.first{
+			color: green;
+			font-family: sans-serif;
+		}
+		.second{
+			color:yellow;
+		}
+		#paraId{
+			font-size: 35px
+		}
